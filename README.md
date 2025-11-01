@@ -23,5 +23,5 @@ Sou desenvolvedor Flutter apaixonado por criar aplicações móveis elegantes e 
 </div>
   
 <div align="center">
-  ![Snake animation](https://github.com/Th3Malt/Th3Malt/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Th3Malt/Maltinhoo/output/github-contribution-grid-snake.svg)
 </div>
