@@ -22,6 +22,4 @@ Sou desenvolvedor Flutter apaixonado por criar aplicações móveis elegantes e 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-<div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/Th3Malt/Maltinhoo/output/github-contribution-grid-snake.svg)
-</div>
+<div align="center"> ![Snake animation](https://github.com/Th3Malt/Maltinhoo/blob/output/github-contribution-grid-snake.svg) </div>
